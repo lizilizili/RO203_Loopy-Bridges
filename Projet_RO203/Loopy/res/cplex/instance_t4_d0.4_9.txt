@@ -1,0 +1,12 @@
+ solution = [
+" x x x x",
+"x x x x x",
+" x x x -",
+"x x x2| |",
+" x x - x",
+"x x1| x2|",
+" x x x -",
+"x x1| | x",
+" x x - x"]
+solveTime = 0.017999887466430664
+isOptimal = true

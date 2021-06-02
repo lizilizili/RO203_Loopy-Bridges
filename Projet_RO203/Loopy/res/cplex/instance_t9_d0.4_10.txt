@@ -1,0 +1,22 @@
+ solution = [
+" x x x x x x x x x",
+"x x x x x x x x x x",
+" x x x x x x x x x",
+"x x x x x x x x x x",
+" x x x x x x x x x",
+"x x x x x x x x x x",
+" x x x x x x x x x",
+"x x1x x x x x x x x",
+" x - x - x x x x x",
+"x |3|3| | x x x x x",
+" x x - x - x x x x",
+"x |1x1x x2|2x x x x",
+" - x x x x - x x x",
+"|2x x x x x | x x x",
+" x x x x - - x x x",
+"| x x x |2x1x x x x",
+" x x x - x x x x x",
+"|2x1x |2x x x x x x",
+" - - - x x x x x x"]
+solveTime = 0.018999814987182617
+isOptimal = true

@@ -1,0 +1,16 @@
+ solution = [
+" x x -   x -",
+"x1x1|     |3|",
+" - x x   x x",
+"|3|2| x x1| |",
+" x x - x x x",
+"| |1x2|1x | |",
+" x x x x - x",
+"| | x1| | x1|",
+"     x - x x",
+"      x2x x |",
+"     x - - -",
+"    | | x1x1x",
+"   x - x x x"]
+solveTime = 0.004999876022338867
+isOptimal = true

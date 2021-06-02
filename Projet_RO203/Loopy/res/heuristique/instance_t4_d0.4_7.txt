@@ -1,0 +1,12 @@
+ solution = [
+"       x",
+"        x",
+"       x",
+"x x x x1x",
+" x - x -",
+"x |3| |3|",
+" - x - x",
+"|3x1x x |",
+" - - - -"]
+solveTime = 0.0009999275207519531
+isOptimal = true
